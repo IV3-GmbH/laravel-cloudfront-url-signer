@@ -1,5 +1,6 @@
-!!!! THIS PACKAGE IS UNMAINTAINED !!!!
-Feel free to fork and start maintaining a copy yourself, we can link here popular forks
+Forked to keep it usable with Laravel 11 and PHP8.2 
+
+--------------------------------------------
 
 # Create CloudFront signed URLs in Laravel 6+
 
