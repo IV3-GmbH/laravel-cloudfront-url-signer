@@ -1,5 +1,6 @@
 {
     "name": "iv3-gmbh/laravel-cloudfront-url-signer",
+    "type": "library",
     "description": "Laravel 5.6+ wrapper around CloudFront canned signed URLs",
     "keywords": [
         "dreamonkey",
